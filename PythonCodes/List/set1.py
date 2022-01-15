@@ -1,0 +1,5 @@
+a = set([1,2,3,4])
+a.update([6,8])
+print(a)
+a.clear()
+print(a)
